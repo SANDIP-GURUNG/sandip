@@ -1,2 +1,0 @@
-git clone https://github.com/SANDIP-GURUNG/sandip
-cd sandip && python sandip.py
