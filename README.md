@@ -26,4 +26,4 @@ $ python sandip.py
 ## ENJOY THIS COMMAND FREE♥️👽
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=SANDIP-GURUNG....!+)
 
-WI-FI &amp; DATA WORKING PUBLIC CRACK COMMAND♥️👽
+WI-FI &amp; DATA WORKING RANDOM CRACK COMMAND♥️👽
