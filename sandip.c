@@ -3,12 +3,12 @@
 /* BEGIN: Cython Metadata
 {
     "distutils": {
-        "name": "Anish_enc",
+        "name": "sandip",
         "sources": [
-            "/storage/emulated/0/ANISH/Anish_enc.py"
+            "/storage/emulated/0/sandip.py"
         ]
     },
-    "module_name": "Anish_enc"
+    "module_name": "sandip"
 }
 END: Cython Metadata */
 
